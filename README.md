@@ -26,6 +26,8 @@ An interactive Retrieval-Augmented Generation (RAG) web application that allows 
 
 Here is a look at the interactive web interface and chat layout:
 
+<img width="1600" height="900" alt="bot_ss" src="https://github.com/user-attachments/assets/f70f5efd-087e-4dc9-ba73-e309bffdaaf3" />
+
 *(Note: Place your Streamlit app screenshot inside an `assets/` folder in your project directory or link it here)*
 
 ---
