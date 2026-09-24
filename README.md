@@ -47,7 +47,7 @@ Here is a look at the interactive web interface and chat layout:
 
 ```text
 faq-bot/
-├── app.py             # Main Streamlit web application script
+├── 12_app.py             # Main Streamlit web application script
 ├── requirements.txt   # List of required Python packages and dependencies
 ├── .env               # Environment file containing your GEMINI_API_KEY (not uploaded)
 └── README.md          # Comprehensive project documentation
